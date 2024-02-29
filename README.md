@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Yohan BROUTHIER, I discovered the world of development when I started using Linux. I decided to train in web development at the O'clock school.
+Today, I want to develop for as long as possible. I've completed a few personal web projects, and I'd be happy to continue this adventure professionally.
+
+
 <!--
 **YohanBROUTHIER/YohanBROUTHIER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
